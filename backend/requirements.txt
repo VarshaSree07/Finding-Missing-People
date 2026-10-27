@@ -1,0 +1,14 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+pymongo==4.5.0
+python-dotenv==1.0.0
+Pillow==10.0.1
+deepface==0.0.79
+opencv-python==4.8.1.78
+numpy==1.24.3
+requests==2.31.0
+googlemaps==4.10.0
+python-multipart==0.0.6
+Werkzeug==2.3.7
+twilio==8.5.0
+sendgrid==6.10.0

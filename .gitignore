@@ -1,0 +1,29 @@
+.env
+.env.*
+!.env.example
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+coverage/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+instance/
+.idea/
+.DS_Store
+Thumbs.db
+backend/uploads/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+.sf/
+frontend/env.production
+Finding missing people/backend/uploads/
+Finding missing people/frontend/env.production
+/Finding missing people/
